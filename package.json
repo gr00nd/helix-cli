@@ -69,7 +69,7 @@
     "rehype-parse": "9.0.0",
     "semver": "7.5.4",
     "shelljs": "0.8.5",
-    "unified": "11.0.3",
+    "unified": "11.0.4",
     "uuid": "9.0.1",
     "yargs": "17.7.2"
   },
