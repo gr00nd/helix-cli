@@ -68,7 +68,7 @@
     "proxy-from-env": "1.1.0",
     "rehype-parse": "9.0.0",
     "semver": "7.5.4",
-    "shelljs": "0.8.5",
+    "shelljs": "0.9.0",
     "unified": "11.0.3",
     "uuid": "9.0.1",
     "yargs": "17.7.2"
